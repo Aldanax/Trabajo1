@@ -1,0 +1,8 @@
+CURSOS DE GIT MECATRONICA
+
+comando esenciales:
+
+git init // Iniciar GIT
+git config --global user.name "usuario" // crear un usuario
+git config --global user.email "correo" // crear un correo eletronico
+clear //limpiar los comandos
